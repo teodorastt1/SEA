@@ -192,7 +192,7 @@
 `docs/BeveraDiagramDB.png`
 
 Примерен markdown линк:
-![ER Diagram](BeveraDiagramDB.png)
+[![ER Diagram](BeveraDiagramDB.png)](https://github.com/teodorastt1/SEA/blob/main/docs/BeveraDiagramDB.png)
 
 Диаграмата представя:
 - таблиците в системата
