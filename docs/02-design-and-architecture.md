@@ -188,10 +188,7 @@
 
 Към проекта е добавена диаграма на базата данни, която показва основните таблици и връзките между тях.
 
-Файл:
-`docs/BeveraDiagramDB.png`
 
-Примерен markdown линк:
 [![ER Diagram](BeveraDiagramDB.png)](https://github.com/teodorastt1/SEA/blob/main/docs/BeveraDiagramDB.png)
 
 Диаграмата представя:
